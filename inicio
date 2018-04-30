@@ -1,5 +1,12 @@
 npm install -g vue-cli
 
+npm install -g npm-check-updates
+ncu -u
+npm i
+npm i -save-dev eslint-plugin-import
+npm -u 
+npm i
+
 vue init webpack teste
 
 cd teste
