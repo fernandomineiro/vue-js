@@ -12,3 +12,6 @@ vue init webpack teste
 cd teste
 npm install
 npm run dev
+
+-- banco de dados firebase--
+npm install firebase vuefire --save
